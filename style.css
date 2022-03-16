@@ -1,0 +1,29 @@
+body{
+
+    background:
+    linear-gradient(135deg, #b9aadf 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+    linear-gradient(225deg, #b9aadf 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#b9aadf;
+    background-size: 64px 128px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width:200px; 
+    height:250px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 22px;
+    color:#7a54e2;
+}
+
+h2{
+    font-size: 20px;
+    color:#7a54e2;
+}
+
